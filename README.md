@@ -1,5 +1,5 @@
 # mandatory-I
-Repository for the hand-in of mandatory assignment 1 consisting of links for the specific, individual assignments.
+Repository for the hand-in of mandatory assignment I consisting of links for the specific, individual assignments.
 
 01a: [Link]
 
