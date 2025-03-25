@@ -7,6 +7,6 @@ Repository for the hand-in of mandatory assignment I consisting of links for the
 
 04a: [Link]
 
-04b: [Link]
+04b: [[Link]](https://github.com/mikljohsn/DB_access_PostgreSQL-Tailscale)
 
 06a: [Link]
